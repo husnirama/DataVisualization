@@ -1,0 +1,313 @@
+Timestamp,Type Burger,Code Burger,Amount Burger,Type Drink,Code Drink,Amount Drink,Gender,Payment
+10:01,Beef burger,1,6,Mineral water,1,3,1,DANA
+10:04,Cheese burger,3,12,Coke,2,10,0,DANA
+10:05,Double cheese burger,4,10,Mineral water,1,5,0,LINK AJA
+10:06,Chicken burger,2,9,Coffe,3,9,0,DANA
+10:07,Cheese burger,3,11,Coke,2,3,1,DANA
+10:08,Double cheese burger,4,8,Mineral water,1,4,1,DANA
+10:09,Beef burger,1,7,Mineral water,1,7,1,GOPAY
+10:11,Beef burger,1,6,Mineral water,1,3,1,TUNAI
+10:12,Double cheese burger,4,5,Coffe,3,2,0,TUNAI
+10:16,Chicken burger,2,9,Coffe,3,9,0,TUNAI
+10:17,Cheese burger,3,11,Coke,2,3,1,DANA
+10:19,Beef burger,1,7,Mineral water,1,7,1,OVO
+10:20,Chicken burger,2,11,None,0,0,0,LINK AJA
+10:24,Beef burger,1,8,Mineral water,1,10,0,GOPAY
+10:25,Beef burger,1,7,Mineral water,1,5,1,OVO
+10:26,Beef burger,1,11,Mineral water,1,9,0,TUNAI
+10:33,Beef burger,1,1,Mineral water,1,1,1,GOPAY
+10:37,Beef burger,1,1,Coffe,3,1,1,DANA
+10:38,Beef burger,1,1,Coffe,3,1,1,LINK AJA
+10:39,Chicken burger,2,3,Coffe,3,3,0,LINK AJA
+10:43,Cheese burger,3,9,Coke,2,9,0,LINK AJA
+10:44,Double cheese burger,4,3,Mineral water,1,3,0,DANA
+10:45,Double cheese burger,4,5,Coffe,3,5,0,OVO
+10:48,Double cheese burger,4,5,Mineral water,1,5,0,GOPAY
+10:49,Beef burger,1,1,None,0,1,0,OVO
+10:53,Chicken burger,2,7,None,0,0,1,GOPAY
+10:54,Cheese burger,3,12,Coke,2,10,0,DANA
+10:58,Double cheese burger,4,8,Mineral water,1,4,1,TUNAI
+10:59,Beef burger,1,7,Mineral water,1,7,1,GOPAY
+11:02,Double cheese burger,4,5,Coffe,3,2,0,LINK AJA
+11:05,Chicken burger,2,7,None,0,0,1,TUNAI
+11:07,Cheese burger,3,12,Coke,2,10,0,OVO
+11:08,Double cheese burger,4,10,Mineral water,1,5,0,LINK AJA
+11:10,Chicken burger,2,9,Coffe,3,9,0,OVO
+11:14,Chicken burger,2,3,Coffe,3,3,0,GOPAY
+11:17,Cheese burger,3,3,Coke,2,3,1,TUNAI
+11:19,Beef burger,1,1,Coffe,3,1,1,LINK AJA
+11:20,Chicken burger,2,3,Coffe,3,3,0,TUNAI
+11:21,Cheese burger,3,9,Coke,2,9,0,LINK AJA
+11:22,Double cheese burger,4,3,Mineral water,1,3,0,GOPAY
+11:23,Double cheese burger,4,5,Coffe,3,5,0,TUNAI
+11:24,Chicken burger,2,5,None,0,5,1,OVO
+11:25,Cheese burger,3,5,Coke,2,5,0,LINK AJA
+11:26,Double cheese burger,4,5,Mineral water,1,5,0,LINK AJA
+11:27,Beef burger,1,1,None,0,1,0,TUNAI
+11:28,Beef burger,1,3,Coke,2,3,0,OVO
+11:29,Beef burger,1,6,Mineral water,1,3,1,DANA
+11:30,Beef burger,1,6,Mineral water,1,3,1,OVO
+11:31,Double cheese burger,4,5,Coffe,3,2,0,OVO
+11:32,Chicken burger,2,7,None,0,0,1,GOPAY
+11:34,Cheese burger,3,12,Coke,2,10,0,OVO
+11:35,Double cheese burger,4,10,Mineral water,1,5,0,GOPAY
+11:37,Chicken burger,2,9,Coffe,3,9,0,LINK AJA
+11:38,Cheese burger,3,11,Coke,2,3,1,TUNAI
+11:40,Double cheese burger,4,8,Mineral water,1,4,1,LINK AJA
+11:42,Beef burger,1,7,Mineral water,1,7,1,LINK AJA
+11:43,Chicken burger,2,11,None,0,0,0,OVO
+11:44,Beef burger,1,6,Mineral water,1,3,1,DANA
+11:45,Double cheese burger,4,5,Coffe,3,2,0,TUNAI
+11:46,Chicken burger,2,7,None,0,0,1,DANA
+11:47,Cheese burger,3,12,Coke,2,10,0,OVO
+11:48,Double cheese burger,4,10,Mineral water,1,5,0,DANA
+11:49,Chicken burger,2,9,Coffe,3,9,0,LINK AJA
+11:50,Cheese burger,3,11,Coke,2,3,1,DANA
+11:51,Double cheese burger,4,8,Mineral water,1,4,1,LINK AJA
+11:52,Beef burger,1,7,Mineral water,1,7,1,TUNAI
+11:53,Chicken burger,2,11,None,0,0,0,DANA
+11:58,Beef burger,1,10,Mineral water,1,3,1,DANA
+11:59,Beef burger,1,9,Coffe,3,2,1,LINK AJA
+12:04,Beef burger,1,11,Coke,2,0,1,GOPAY
+12:05,Beef burger,1,8,Mineral water,1,10,0,OVO
+12:06,Beef burger,1,7,Mineral water,1,5,1,GOPAY
+12:07,Beef burger,1,11,Mineral water,1,9,0,OVO
+12:08,Beef burger,1,2,Coffe,3,2,0,GOPAY
+12:11,Beef burger,1,1,None,0,1,0,TUNAI
+12:12,Beef burger,1,3,Coke,2,3,0,GOPAY
+12:15,Beef burger,1,1,Mineral water,1,1,1,GOPAY
+12:18,Beef burger,1,1,Mineral water,1,1,1,OVO
+12:20,Beef burger,1,1,Mineral water,1,1,1,LINK AJA
+12:22,Beef burger,1,1,Mineral water,1,1,1,TUNAI
+12:24,Beef burger,1,1,Mineral water,1,1,1,GOPAY
+12:30,Beef burger,1,1,Coffe,3,1,1,TUNAI
+12:34,Beef burger,1,1,Coffe,3,1,1,TUNAI
+12:36,Beef burger,1,1,Coffe,3,1,1,TUNAI
+12:38,Beef burger,1,1,Coffe,3,1,1,DANA
+12:39,Chicken burger,2,3,Coffe,3,3,0,GOPAY
+12:40,Cheese burger,3,3,Coke,2,3,1,LINK AJA
+12:45,Beef burger,1,1,Coffe,3,1,1,DANA
+12:48,Chicken burger,2,3,Coffe,3,3,0,DANA
+12:50,Cheese burger,3,9,Coke,2,9,0,OVO
+12:52,Double cheese burger,4,3,Mineral water,1,3,0,LINK AJA
+12:54,Double cheese burger,4,5,Coffe,3,5,0,DANA
+12:56,Chicken burger,2,5,None,0,5,1,DANA
+12:58,Cheese burger,3,5,Coke,2,5,0,DANA
+13:00,Double cheese burger,4,5,Mineral water,1,5,0,DANA
+13:01,Beef burger,1,1,None,0,1,0,LINK AJA
+13:03,Beef burger,1,3,Coke,2,3,0,OVO
+13:05,Beef burger,1,6,Mineral water,1,3,1,LINK AJA
+13:07,Double cheese burger,4,5,Coffe,3,2,0,GOPAY
+13:10,Chicken burger,2,7,None,0,0,1,LINK AJA
+13:12,Cheese burger,3,12,Coke,2,10,0,GOPAY
+13:14,Double cheese burger,4,10,Mineral water,1,5,0,OVO
+13:16,Chicken burger,2,9,Coffe,3,9,0,GOPAY
+13:20,Cheese burger,3,11,Coke,2,3,1,DANA
+13:22,Double cheese burger,4,8,Mineral water,1,4,1,GOPAY
+13:24,Beef burger,1,7,Mineral water,1,7,1,GOPAY
+13:28,Chicken burger,2,11,None,0,0,0,DANA
+13:30,Beef burger,1,6,Mineral water,1,3,1,GOPAY
+13:33,Double cheese burger,4,5,Coffe,3,2,0,TUNAI
+13:35,Chicken burger,2,7,None,0,0,1,GOPAY
+13:38,Cheese burger,3,12,Coke,2,10,0,DANA
+13:41,Beef burger,1,6,Mineral water,1,3,1,LINK AJA
+13:45,Double cheese burger,4,5,Coffe,3,2,0,TUNAI
+13:48,Chicken burger,2,7,None,0,0,1,OVO
+13:49,Cheese burger,3,12,Coke,2,10,0,TUNAI
+13:52,Double cheese burger,4,10,Mineral water,1,5,0,OVO
+13:55,Chicken burger,2,9,Coffe,3,9,0,LINK AJA
+13:57,Cheese burger,3,11,Coke,2,3,1,LINK AJA
+14:01,Double cheese burger,4,8,Mineral water,1,4,1,DANA
+14:04,Beef burger,1,7,Mineral water,1,7,1,OVO
+14:07,Chicken burger,2,11,None,0,0,0,LINK AJA
+14:10,Beef burger,1,6,Mineral water,1,3,1,LINK AJA
+14:13,Double cheese burger,4,5,Coffe,3,2,0,TUNAI
+14:16,Chicken burger,2,7,None,0,0,1,OVO
+14:18,Cheese burger,3,12,Coke,2,10,0,GOPAY
+14:21,Double cheese burger,4,10,Mineral water,1,5,0,TUNAI
+14:23,Chicken burger,2,9,Coffe,3,9,0,OVO
+14:25,Cheese burger,3,11,Coke,2,3,1,OVO
+14:29,Double cheese burger,4,8,Mineral water,1,4,1,GOPAY
+14:32,Beef burger,1,7,Mineral water,1,7,1,LINK AJA
+14:35,Chicken burger,2,11,None,0,0,0,TUNAI
+14:37,Beef burger,1,10,Mineral water,1,3,1,GOPAY
+14:40,Beef burger,1,9,Coffe,3,2,1,DANA
+14:43,Beef burger,1,11,Coke,2,0,1,TUNAI
+14:46,Beef burger,1,8,Mineral water,1,10,0,DANA
+14:48,Beef burger,1,7,Mineral water,1,5,1,LINK AJA
+14:50,Beef burger,1,11,Mineral water,1,9,0,OVO
+14:52,Beef burger,1,2,Coffe,3,2,0,DANA
+14:54,Beef burger,1,1,None,0,1,0,LINK AJA
+14:56,Beef burger,1,3,Coke,2,3,0,OVO
+14:58,Beef burger,1,2,Mineral water,1,2,1,LINK AJA
+15:00,Beef burger,1,2,Mineral water,1,2,1,DANA
+15:04,Beef burger,1,2,Mineral water,1,2,1,OVO
+15:07,Beef burger,1,2,Mineral water,1,2,1,OVO
+15:09,Beef burger,1,1,Mineral water,1,2,1,LINK AJA
+15:11,Beef burger,1,1,Coffe,3,1,1,TUNAI
+15:13,Beef burger,1,1,Coffe,3,1,1,TUNAI
+15:15,Beef burger,1,1,Coffe,3,1,1,GOPAY
+15:18,Beef burger,1,1,Coffe,3,1,1,LINK AJA
+15:20,Chicken burger,2,3,Coffe,3,3,0,DANA
+15:22,Cheese burger,3,3,Coke,2,3,1,DANA
+15:25,Beef burger,1,1,Coffe,3,1,1,DANA
+15:28,Chicken burger,2,3,Coffe,3,3,0,LINK AJA
+15:31,Cheese burger,3,9,Coke,2,9,0,OVO
+15:35,Double cheese burger,4,3,Mineral water,1,3,0,LINK AJA
+15:37,Double cheese burger,4,5,Coffe,3,5,0,LINK AJA
+15:39,Chicken burger,2,5,None,0,5,1,GOPAY
+15:41,Cheese burger,3,5,Coke,2,5,0,OVO
+15:49,Double cheese burger,4,5,Mineral water,1,5,0,TUNAI
+15:54,Beef burger,1,1,None,0,1,0,TUNAI
+15:56,Beef burger,1,3,Coke,2,3,0,LINK AJA
+15:58,Beef burger,1,6,Mineral water,1,3,1,GOPAY
+16:04,Double cheese burger,4,5,Coffe,3,2,0,DANA
+16:07,Chicken burger,2,7,None,0,0,1,GOPAY
+16:09,Cheese burger,3,12,Coke,2,10,0,DANA
+16:11,Double cheese burger,4,10,Mineral water,1,5,0,TUNAI
+16:16,Chicken burger,2,9,Coffe,3,9,0,GOPAY
+16:19,Cheese burger,3,11,Coke,2,3,1,DANA
+16:21,Double cheese burger,4,8,Mineral water,1,4,1,DANA
+16:26,Beef burger,1,7,Mineral water,1,7,1,LINK AJA
+16:28,Chicken burger,2,11,None,0,0,0,LINK AJA
+16:30,Beef burger,1,6,Mineral water,1,3,1,GOPAY
+16:34,Double cheese burger,4,5,Coffe,3,2,0,TUNAI
+16:38,Chicken burger,2,7,None,0,0,1,GOPAY
+16:41,Cheese burger,3,12,Coke,2,10,0,LINK AJA
+16:43,Double cheese burger,4,10,Mineral water,1,5,0,OVO
+16:45,Chicken burger,2,9,Coffe,3,9,0,TUNAI
+16:49,Chicken burger,2,3,Coffe,3,3,0,DANA
+16:52,Cheese burger,3,3,Coke,2,3,1,OVO
+16:55,Beef burger,1,1,Coffe,3,1,1,TUNAI
+16:58,Chicken burger,2,3,Coffe,3,3,0,TUNAI
+17:00,Cheese burger,3,9,Coke,2,9,0,OVO
+17:04,Double cheese burger,4,3,Mineral water,1,3,0,OVO
+17:08,Double cheese burger,4,5,Coffe,3,5,0,TUNAI
+17:10,Chicken burger,2,5,None,0,5,1,GOPAY
+17:12,Cheese burger,3,5,Coke,2,5,0,GOPAY
+17:14,Double cheese burger,4,5,Mineral water,1,5,0,LINK AJA
+17:18,Beef burger,1,1,None,0,1,0,TUNAI
+17:21,Beef burger,1,3,Coke,2,3,0,OVO
+17:23,Beef burger,1,6,Mineral water,1,3,1,TUNAI
+17:25,Beef burger,1,6,Mineral water,1,3,1,GOPAY
+17:28,Double cheese burger,4,5,Coffe,3,2,0,DANA
+17:30,Chicken burger,2,7,None,0,0,1,LINK AJA
+17:32,Cheese burger,3,12,Coke,2,10,0,OVO
+17:34,Double cheese burger,4,10,Mineral water,1,5,0,DANA
+17:38,Chicken burger,2,9,Coffe,3,9,0,LINK AJA
+17:40,Cheese burger,3,11,Coke,2,3,1,TUNAI
+17:43,Double cheese burger,4,8,Mineral water,1,4,1,LINK AJA
+17:45,Beef burger,1,7,Mineral water,1,7,1,TUNAI
+17:47,Chicken burger,2,11,None,0,0,0,DANA
+17:51,Beef burger,1,6,Mineral water,1,3,1,OVO
+17:53,Double cheese burger,4,5,Coffe,3,2,0,DANA
+17:54,Chicken burger,2,7,None,0,0,1,LINK AJA
+17:55,Cheese burger,3,12,Coke,2,10,0,LINK AJA
+17:57,Double cheese burger,4,10,Mineral water,1,5,0,GOPAY
+17:58,Chicken burger,2,9,Coffe,3,9,0,GOPAY
+18:00,Cheese burger,3,11,Coke,2,3,1,DANA
+18:02,Double cheese burger,4,8,Mineral water,1,4,1,GOPAY
+18:04,Beef burger,1,7,Mineral water,1,7,1,GOPAY
+18:05,Chicken burger,2,11,None,0,0,0,TUNAI
+18:07,Beef burger,1,10,Mineral water,1,3,1,OVO
+18:09,Beef burger,1,9,Coffe,3,2,1,OVO
+18:12,Beef burger,1,11,Coke,2,0,1,LINK AJA
+18:13,Chicken burger,2,3,Coffe,3,3,0,LINK AJA
+18:15,Cheese burger,3,3,Coke,2,3,1,OVO
+18:18,Chicken burger,2,3,Coffe,3,3,0,GOPAY
+18:20,Cheese burger,3,3,Coke,2,3,1,TUNAI
+18:21,Chicken burger,2,3,Coffe,3,3,0,OVO
+18:23,Cheese burger,3,3,Coke,2,3,1,GOPAY
+18:25,Chicken burger,2,3,Coffe,3,3,0,TUNAI
+18:27,Cheese burger,3,3,Coke,2,3,1,DANA
+18:29,Beef burger,1,2,Mineral water,1,2,0,GOPAY
+18:31,Beef burger,1,1,Mineral water,1,1,0,LINK AJA
+18:33,Beef burger,1,1,Mineral water,1,1,0,TUNAI
+18:35,Beef burger,1,1,Coffe,3,1,0,GOPAY
+18:37,Beef burger,1,1,Coffe,3,1,1,LINK AJA
+18:39,Beef burger,1,1,Coffe,3,1,1,DANA
+18:40,Beef burger,1,1,Coffe,3,1,1,TUNAI
+18:43,Chicken burger,2,3,Coffe,3,3,0,DANA
+18:44,Cheese burger,3,3,Coke,2,3,1,GOPAY
+18:46,Beef burger,1,1,Coffe,3,1,1,DANA
+18:47,Chicken burger,2,3,Coffe,3,3,0,DANA
+18:50,Cheese burger,3,9,Coke,2,9,0,DANA
+18:52,Double cheese burger,4,3,Mineral water,1,3,0,OVO
+18:53,Double cheese burger,4,5,Coffe,3,5,0,LINK AJA
+18:55,Chicken burger,2,5,None,0,5,1,TUNAI
+18:57,Cheese burger,3,5,Coke,2,5,0,GOPAY
+18:58,Double cheese burger,4,5,Mineral water,1,5,0,LINK AJA
+19:00,Beef burger,1,1,None,0,1,0,OVO
+19:02,Beef burger,1,3,Coke,2,3,0,TUNAI
+19:03,Beef burger,1,6,Mineral water,1,3,1,DANA
+19:07,Double cheese burger,4,5,Coffe,3,2,0,LINK AJA
+19:12,Chicken burger,2,7,None,0,0,1,TUNAI
+19:14,Cheese burger,3,12,Coke,2,10,0,DANA
+19:16,Double cheese burger,4,10,Mineral water,1,5,0,DANA
+19:18,Chicken burger,2,9,Coffe,3,9,0,TUNAI
+19:19,Cheese burger,3,11,Coke,2,3,1,DANA
+19:21,Double cheese burger,4,8,Mineral water,1,4,1,OVO
+19:23,Beef burger,1,7,Mineral water,1,7,1,GOPAY
+19:26,Chicken burger,2,11,None,0,0,0,TUNAI
+19:28,Beef burger,1,6,Mineral water,1,3,1,GOPAY
+19:30,Double cheese burger,4,5,Coffe,3,2,0,LINK AJA
+19:32,Chicken burger,2,7,None,0,0,1,DANA
+19:35,Cheese burger,3,12,Coke,2,10,0,LINK AJA
+19:36,Double cheese burger,4,10,Mineral water,1,5,0,GOPAY
+19:38,Chicken burger,2,9,Coffe,3,9,0,LINK AJA
+19:39,Chicken burger,2,3,Coffe,3,3,0,DANA
+19:42,Cheese burger,3,3,Coke,2,3,1,LINK AJA
+19:43,Beef burger,1,1,Coffe,3,1,1,TUNAI
+19:45,Chicken burger,2,3,Coffe,3,3,0,GOPAY
+19:47,Cheese burger,3,9,Coke,2,9,0,OVO
+19:48,Double cheese burger,4,3,Mineral water,1,3,0,GOPAY
+19:50,Double cheese burger,4,5,Coffe,3,5,0,GOPAY
+19:52,Chicken burger,2,5,None,0,5,1,TUNAI
+19:55,Cheese burger,3,5,Coke,2,5,0,GOPAY
+19:57,Double cheese burger,4,5,Mineral water,1,5,0,TUNAI
+19:59,Beef burger,1,1,None,0,1,0,LINK AJA
+20:01,Beef burger,1,3,Coke,2,3,0,LINK AJA
+20:04,Beef burger,1,6,Mineral water,1,3,1,TUNAI
+20:08,Double cheese burger,4,10,Mineral water,1,5,0,GOPAY
+20:11,Chicken burger,2,9,Coffe,3,9,0,OVO
+20:13,Chicken burger,2,3,Coffe,3,3,0,TUNAI
+20:17,Cheese burger,3,3,Coke,2,3,1,GOPAY
+20:19,Beef burger,1,1,Coffe,3,1,1,TUNAI
+20:22,Chicken burger,2,3,Coffe,3,3,0,DANA
+20:27,Cheese burger,3,9,Coke,2,9,0,LINK AJA
+20:30,Double cheese burger,4,3,Mineral water,1,3,0,GOPAY
+20:32,Double cheese burger,4,5,Coffe,3,5,0,OVO
+20:34,Chicken burger,2,5,None,0,5,1,GOPAY
+20:36,Cheese burger,3,5,Coke,2,5,0,TUNAI
+20:38,Double cheese burger,4,5,Mineral water,1,5,0,DANA
+20:41,Beef burger,1,1,None,0,1,0,LINK AJA
+20:44,Beef burger,1,3,Coke,2,3,0,LINK AJA
+20:46,Beef burger,1,6,Mineral water,1,3,1,LINK AJA
+20:49,Beef burger,1,6,Mineral water,1,3,1,TUNAI
+20:51,Double cheese burger,4,5,Coffe,3,2,0,OVO
+20:55,Chicken burger,2,7,None,0,0,1,GOPAY
+20:58,Cheese burger,3,12,Coke,2,10,0,LINK AJA
+21:00,Double cheese burger,4,10,Mineral water,1,5,0,GOPAY
+21:02,Chicken burger,2,9,Coffe,3,9,0,TUNAI
+21:05,Cheese burger,3,11,Coke,2,3,1,OVO
+21:07,Double cheese burger,4,8,Mineral water,1,4,1,GOPAY
+21:09,Beef burger,1,7,Mineral water,1,7,1,DANA
+21:12,Chicken burger,2,11,None,0,0,0,DANA
+21:15,Beef burger,1,6,Mineral water,1,3,1,GOPAY
+21:18,Double cheese burger,4,5,Coffe,3,2,0,LINK AJA
+21:20,Chicken burger,2,7,None,0,0,1,LINK AJA
+21:22,Cheese burger,3,12,Coke,2,10,0,TUNAI
+21:26,Double cheese burger,4,10,Mineral water,1,5,0,GOPAY
+21:28,Chicken burger,2,9,Coffe,3,9,0,GOPAY
+21:30,Cheese burger,3,11,Coke,2,3,1,DANA
+21:32,Double cheese burger,4,8,Mineral water,1,4,1,OVO
+21:34,Beef burger,1,7,Mineral water,1,7,1,DANA
+21:37,Chicken burger,2,11,None,0,0,0,GOPAY
+21:39,Beef burger,1,10,Mineral water,1,3,1,OVO
+21:41,Beef burger,1,9,Coffe,3,2,1,TUNAI
+21:44,Beef burger,1,11,Coke,2,0,1,TUNAI
+21:47,Beef burger,1,8,Mineral water,1,10,0,TUNAI
+21:50,Beef burger,1,7,Mineral water,1,5,1,TUNAI
+21:53,Beef burger,1,11,Mineral water,1,9,0,DANA
+21:55,Beef burger,1,2,Coffe,3,2,0,DANA
+21:57,Beef burger,1,1,None,0,1,0,TUNAI
